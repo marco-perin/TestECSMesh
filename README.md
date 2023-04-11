@@ -1,5 +1,7 @@
 # TestECSMesh
 
+![codecov_badge](CodeCoverage/Report/badge_linecoverage.svg)
+
 ## Preface
 
 **This is an old repo** (Apr 2020).
