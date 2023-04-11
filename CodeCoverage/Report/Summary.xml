@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>4/29/2020 - 2:32:24 PM</Generatedon>
+    <Parser>OpenCoverParser</Parser>
+    <Assemblies>2</Assemblies>
+    <Classes>17</Classes>
+    <Files>8</Files>
+    <Coveredlines>148</Coveredlines>
+    <Uncoveredlines>849</Uncoveredlines>
+    <Coverablelines>997</Coverablelines>
+    <Totallines>1945</Totallines>
+    <Linecoverage>14.8</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+  </Summary>
+  <Coverage>
+    <Assembly name="TestECSMesh" classes="13" coverage="5.2" coveredlines="47" coverablelines="896" totallines="4332" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="ArrayUtils" coverage="34" coveredlines="16" coverablelines="47" totallines="429" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="BooleanMesh" coverage="0" coveredlines="0" coverablelines="198" totallines="353" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="csSceneBoolean" coverage="0" coveredlines="0" coverablelines="11" totallines="34" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="GeometryUtilities" coverage="0" coveredlines="0" coverablelines="55" totallines="429" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Graph" coverage="0" coveredlines="0" coverablelines="32" totallines="429" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="LineUtilities" coverage="100" coveredlines="5" coverablelines="5" totallines="429" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="MeshComplexParallel" coverage="0" coveredlines="0" coverablelines="34" totallines="94" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="PlaneCustom" coverage="90" coveredlines="9" coverablelines="10" totallines="429" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="PlaneCutter" coverage="20.3" coveredlines="11" coverablelines="54" totallines="111" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="PolygonUtils" coverage="0" coveredlines="0" coverablelines="34" totallines="429" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="TriangleIntersectionViewer" coverage="0" coveredlines="0" coverablelines="248" totallines="419" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="TriangleUtils" coverage="37.5" coveredlines="6" coverablelines="16" totallines="429" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Triangulation" coverage="0" coveredlines="0" coverablelines="152" totallines="318" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+    <Assembly name="Tests" classes="4" coverage="100" coveredlines="101" coverablelines="101" totallines="748" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="Tests.ArrayUtilsTester" coverage="100" coveredlines="34" coverablelines="34" totallines="187" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Tests.LineUtilsTest" coverage="100" coveredlines="8" coverablelines="8" totallines="187" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Tests.PlaneCustomTest" coverage="100" coveredlines="11" coverablelines="11" totallines="187" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Tests.TriangleUtilsTests" coverage="100" coveredlines="48" coverablelines="48" totallines="187" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>

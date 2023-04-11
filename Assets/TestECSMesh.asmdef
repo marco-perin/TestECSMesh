@@ -1,0 +1,16 @@
+{
+    "name": "TestECSMesh",
+    "references": [
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:600250a9a779a7646b2b3b0744b0ce6d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

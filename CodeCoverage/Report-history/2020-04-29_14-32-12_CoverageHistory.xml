@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2020-04-29_14-32-12" tag="">
+  <assembly name="TestECSMesh">
+    <class name="ArrayUtils" coveredlines="16" coverablelines="47" totallines="429" coveredbranches="0" totalbranches="0" />
+    <class name="BooleanMesh" coveredlines="0" coverablelines="198" totallines="353" coveredbranches="0" totalbranches="0" />
+    <class name="csSceneBoolean" coveredlines="0" coverablelines="11" totallines="34" coveredbranches="0" totalbranches="0" />
+    <class name="GeometryUtilities" coveredlines="0" coverablelines="55" totallines="429" coveredbranches="0" totalbranches="0" />
+    <class name="Graph" coveredlines="0" coverablelines="32" totallines="429" coveredbranches="0" totalbranches="0" />
+    <class name="LineUtilities" coveredlines="5" coverablelines="5" totallines="429" coveredbranches="0" totalbranches="0" />
+    <class name="MeshComplexParallel" coveredlines="0" coverablelines="34" totallines="94" coveredbranches="0" totalbranches="0" />
+    <class name="PlaneCustom" coveredlines="9" coverablelines="10" totallines="429" coveredbranches="0" totalbranches="0" />
+    <class name="PlaneCutter" coveredlines="11" coverablelines="54" totallines="111" coveredbranches="0" totalbranches="0" />
+    <class name="PolygonUtils" coveredlines="0" coverablelines="34" totallines="429" coveredbranches="0" totalbranches="0" />
+    <class name="TriangleIntersectionViewer" coveredlines="0" coverablelines="248" totallines="419" coveredbranches="0" totalbranches="0" />
+    <class name="TriangleUtils" coveredlines="6" coverablelines="16" totallines="429" coveredbranches="0" totalbranches="0" />
+    <class name="Triangulation" coveredlines="0" coverablelines="152" totallines="318" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Tests">
+    <class name="Tests.ArrayUtilsTester" coveredlines="34" coverablelines="34" totallines="187" coveredbranches="0" totalbranches="0" />
+    <class name="Tests.LineUtilsTest" coveredlines="8" coverablelines="8" totallines="187" coveredbranches="0" totalbranches="0" />
+    <class name="Tests.PlaneCustomTest" coveredlines="11" coverablelines="11" totallines="187" coveredbranches="0" totalbranches="0" />
+    <class name="Tests.TriangleUtilsTests" coveredlines="48" coverablelines="48" totallines="187" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>
